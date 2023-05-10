@@ -1,0 +1,87 @@
+# The primary author of this blog.
+# Must be the same as `author` in `_config.yml`.
+# Change `author1` to your shortname.
+author1:
+  name: JeaHyun Lee
+  email: myleje@gmail.com
+
+  # Used at the bottom of each page and at the top of the `about` layout
+  # Markdown enabled, can use multiple paragraphs (enabled by `|`)
+  # about: |
+  #   1인 게임개발자, 절대강좌 유니티 시리즈 집필과 온/오프라인 강의를 진행하고 있습니다. 
+  #   [**유니티 마스터스 2기 부터 5기**](http://www.unitysquare.co.kr/growwith/masters)로 활동했으며, 공공기관, 대학교, 사설 교육기관에서 유니티 강의를 병행하고 있습니다.
+    
+  #   IT 업계에서 13년간 프리랜서 개발자로 SI 개발을 하다. 어마무시한 문서작업과 지루한 회의를 참지 못하고 
+  #   2008년 부터는 프리랜서 생활을 접고 아이폰 게임 개발을 시작했습니다. 
+    
+  #   정말 아무것도 모른 체, 게임은 좋아하니까, 그냥 개발하면 되겠지 라고 생각하고 시작했죠. 
+  #   맥북 하나 달랑 들고… 정말로 건방진 생각으로 시작했었습니다. 
+    
+  #   혹시 그러시려는 분이 있으시면 강력히 추천합니다.^^ 저질러야 일이 벌어집니다!!
+
+  # This photo will be used in the about section
+  picture:
+    path:            ../assets/img/LeeJaeHyunProfile.png
+    # srcset is optional, but can be used to provide higher res versions for retina displays
+    srcset:
+      1x:            https://via.placeholder.com/128x128
+      2x:            https://via.placeholder.com/256x256
+
+  # Social media icons in sidebar
+  # Comment/uncommet to show/hide
+  # Rearrange to change the order in which they appear
+  social:
+    # twitter:         <username>
+    github: IndieGameMaker
+    email: myleje@gmail.com
+    # rss:             https://<url>/feed.xml
+    facebook: IndieGameMaker
+    # google:          <number>
+    # vk:              <username>
+    # youtube:         <string_string_string>
+    # vimeo:           <username>
+    # vine:            <username>
+    # spotify:         <user>/<number>
+    # soundcloud:      <username>
+    # lastfm:          <username>
+    # instagram:       <username>
+    # flickr:          <string@string>
+    # 500px:           <username>
+    # dribbble:        <username>
+    # behance:         <username>
+    # deviantart:      <username>
+    # ello:            <username>
+    # twitch:          <username>
+    # steam:           <number>
+    # reddit:          <username>
+    # tumblr:          <username>
+    # pinterest:       <username>
+    # foursquare:      <number>
+    # yelp:            <string>
+    # stackoverflow:   <number/username>
+    # npm:             <username>
+    # hackernews:      <username>
+    # trello:          <firstnamelastname>
+    # linkedin:        <firstname-lastname-string>
+    # xing:            <firstname_lastname_counter>
+    # blogger:         <number>
+    # delicious:       <username>
+    # stumbleupon:     <username>
+    # paypal:          <username>
+    # download:        <url>
+    # keybase          <username>
+
+# Another author (optional)
+author2:
+  name:              <firtname> <lastname>
+  email:             <mail@domain.tld>
+  about:             |
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit,
+    sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+    Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+
+    Open `_data/authors.yml` to edit this text.
+
+  picture:           https://placehold.it/128x128
+  twitter:           <username>
+  github:            <username>
